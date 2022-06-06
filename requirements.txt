@@ -1,4 +1,4 @@
-git+https://github.com/AnonymousR1025/yt-dl@master
+git+https://github.com/Tuncay456/Tricky-anonmusic?organization=Tuncay456&organization=Tuncay456/yt-dl@nevarevladim
 pyrogram==1.4.16
 TgCrypto
 py-tgcalls==0.8.6
